@@ -1,0 +1,1 @@
+# power-consumption-calculator
