@@ -1,6 +1,4 @@
 # Power Consumption Calculator
-# Power Consumption Calculator
-
 This web app calculates the power consumption of appliances based on the power rating and time of usage.
 
 ## How to Use
