@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power Consumption Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Power Consumption Calculator</h1>
+        <form id="calculator-form">
+            <div class="input-group">
+                <label for="power">Power Rating (in Watts):</label>
+                <input type="number" id="power" name="power" required placeholder="e.g., 100">
+            </div>
+
+            <div class="input-group">
+                <label for="hours">Usage Time (in Hours):</label>
+                <input type="number" id="hours" name="hours" required placeholder="e.g., 5">
+            </div>
+
+            <button type="submit">Calculate</button>
+        </form>
+        <p id="result"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
