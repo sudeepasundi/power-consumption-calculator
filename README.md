@@ -6,6 +6,9 @@ This web app calculates the power consumption of appliances based on the power r
 2. Enter the time of usage (in hours).
 3. Click 'Calculate' to see the energy consumed and the cost.
 
+WEB Page Link:
+https://sudeepasundi.github.io/power-consumption-calculator/
+
 
 
 
